@@ -1,5 +1,5 @@
 # PixelStorm
-PixelStorm is GPU based particle engine for TouchDesigner.
+PixelStorm is GPU based particle system for TouchDesigner.
 
 # Concept
 * Particle as a pixel.

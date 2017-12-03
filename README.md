@@ -1,12 +1,18 @@
 # PixelStorm
-PixelStorm is GPU based particle system for TouchDesigner.
+GPU based particle system for TouchDesigner.
 
-# Concept
-* Particle as a pixel.
-* All pixels controllable.
-* Designer friendly Interface.
-* Mass is power!
+## Description
+- For Designer : User Friendly Interface
+- For Engineer : Easy to Learn and Customize System
 
-# Test Enviroment
-* Windows 10 64 bit
-* TouchDesigner 099 64bit
+## Requirement
+- Windows 10 64 bit
+- TouchDesigner 099 64bit
+
+## Author
+
+[Toyoshi Morioka](https://twitter.com/mogamogamachine)
+
+## License
+
+[MIT](https://github.com/ToyoshiMorioka/PixelStorm/blob/master/LICENSE)

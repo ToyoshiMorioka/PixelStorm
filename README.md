@@ -1,9 +1,5 @@
 # PixelStorm
-GPU based particle system for TouchDesigner.
-
-## Description
-- For Designer : User Friendly Interface
-- For Engineer : Easy to Learn and Customize System
+GPU based pixel particle (module) system for TouchDesigner.
 
 ## Requirement
 - Windows 10 64 bit

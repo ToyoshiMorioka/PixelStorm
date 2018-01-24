@@ -8,17 +8,21 @@ This is GPU based Particle Toolkit for TouchDesigner.
 
 ## Containers
 ### TOPtoVertexPixel
-Suspend to Geometry Container from pixel's position TOP and color TOP.
+Suspend pixels to Geometry Container from pixel's position TOP and color TOP.
+### TOPtoVertexCircle
+Suspend circles to Geometry Container from pixel's position TOP and color TOP.
 ### BufferSizeCal
-Convert particle counts to buffer size. 
-### PosSpeedLifeLoop
-Add position and speed in life cyicles. If life is over, move to 1st position.
+Convert particle counts to buffer size.
+### AgeLoopTOP
+grey gradation loop.
 ### SOPtoTOP
 Change SOP's tx,ty,tz,nx,ny,nz to TOP.
-### SpeedRandomize
-Add randomize speed from input speed TOP.
+### VelocityController
+Add randomize and multiply from input TOP.
 ### TOPtoTOP
-change TOP to pos TOP. 
+Change TOP to pos TOP.
+### PosCalculator
+Mixing postion and velocity by age.
 
 ## Examples
 ### Basic

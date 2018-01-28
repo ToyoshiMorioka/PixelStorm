@@ -11,6 +11,8 @@ This is GPU based Particle Toolkit for TouchDesigner.
 Suspend pixels to Geometry Container from pixel's position TOP and color TOP.
 ### TOPtoVertexCircle
 Suspend circles to Geometry Container from pixel's position TOP and color TOP.
+### TOPtoInstancePhong
+TOP based Instancing. You can use translate, rotate, scale and color. shading is phong shading.
 ### BufferSizeCal
 Convert particle counts to buffer size.
 ### AgeLoopTOP
@@ -27,6 +29,10 @@ Mixing postion and velocity by age.
 ## Examples
 ### Basic
 Very basic example.
+### Circle
+Circle basic example.
+### Instance
+Very basic examle for Instancing.
 
 ## Author
 

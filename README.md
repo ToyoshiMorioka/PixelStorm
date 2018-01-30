@@ -17,10 +17,8 @@ TOP based Instancing. You can use translate, rotate, scale and color. shading is
 Convert particle counts to buffer size.
 ### AgeLoopTOP
 grey gradation loop.
-### SOPtoTOP (!Windows only)
+### SOPtoTOP
 Change SOP's tx,ty,tz,nx,ny,nz to TOP.
-This Container uses "texelBuffer".
-It is not supported at MacOS.
 ### VelocityController
 Add randomize and multiply from input TOP.
 ### TOPtoTOP

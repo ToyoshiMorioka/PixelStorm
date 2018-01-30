@@ -4,7 +4,7 @@ This is GPU based Particle Toolkit for TouchDesigner.
 
 ## Requirement
 - Windows 10 64 bit
-- TouchDesigner 099 64bit
+- TouchDesigner 099 (tested 2017.37900)
 
 ## Containers
 ### TOPtoVertexPixel

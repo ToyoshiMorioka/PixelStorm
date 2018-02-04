@@ -25,6 +25,8 @@ Add randomize and multiply from input TOP.
 Change TOP to pos TOP.
 ### PosCalculator
 Mixing postion and velocity by age.
+### AttractorTOP
+Makes position and velocity by a attractor point.
 
 ## Examples
 ### Basic
@@ -32,7 +34,9 @@ Very basic example.
 ### Circle
 Circle basic example.
 ### Instance
-Very basic examle for Instancing.
+Very basic examlpe for Instancing.
+### Attractor
+Attractor example by mouse tracking.
 
 ## Author
 

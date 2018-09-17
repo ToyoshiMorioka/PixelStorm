@@ -2,9 +2,15 @@
 ![top](https://github.com/ToyoshiMorioka/PixelStorm/blob/master/top.PNG "top")
 This is GPU based Particle Toolkit for TouchDesigner.
 
+# !!! UNDER CONSTRUCTION !!!
+
 ## Requirement
 - Windows 10 64 bit
-- TouchDesigner 099 (tested 2017.37900)
+- TouchDesigner 099 (tested 2018.25850)
+
+
+
+## This is old...
 
 ## Containers
 ### TOPtoVertexPixel

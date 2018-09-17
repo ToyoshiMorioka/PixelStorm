@@ -23,12 +23,12 @@ Customize Geometry Containers for Vertex control.
 ## Examples
 ### Basic
 Very basic example.
-### Circle
-Circle basic example.
-### Instance
-Very basic examlpe for Instancing.
+### RotateCircle
+Calculation for particles uses FunctionTOPs.
 ### Attractor
 Attractor example by mouse tracking.
+### RibonTrail
+Ribon trail example(TODO: remake more simply...).
 
 ## Author
 
